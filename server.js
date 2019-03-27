@@ -31,9 +31,9 @@ hbs.registerHelper('message', (text) => {
 // 		next();
 // });
 
-app.use((request, response, next) => { 
-	response.render('maintenance.hbs')
-});
+// app.use((request, response, next) => { 
+// 	response.render('maintenance.hbs')
+// });
 		// fs.appendFile('server.log', log + '\n', (error) => {
 		// 	if (error) {
 		// 		console.log('Unable to log message');
