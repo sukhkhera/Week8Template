@@ -12,7 +12,8 @@
   "dependencies": {
     "express": "^4.16.4",
     "fs": "0.0.1-security",
-    "hbs": "^4.0.3"
+    "hbs": "^4.0.3",
+    "heroku": "^7.22.7"
   },
   "devDependencies": {}
 }
